@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CharacterList component render CharacterList 1`] = `
+<DocumentFragment>
+  <ul />
+</DocumentFragment>
+`;
