@@ -2,6 +2,9 @@
 
 exports[`CharacterList component render CharacterList 1`] = `
 <DocumentFragment>
-  <ul />
+  <ul
+    class="light"
+    id="character-list"
+  />
 </DocumentFragment>
 `;
