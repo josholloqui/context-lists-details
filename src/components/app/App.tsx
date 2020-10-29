@@ -1,10 +1,11 @@
 import React from 'react';
-import CharacterList from '../characters/CharacterList'
+import CharacterList from '../characters/CharacterList';
+import Header from '../header/Header';
 
 function App() {
   return (
     <>
-      <h1>Hello</h1>
+      <Header />
       <CharacterList />
     </>
   );

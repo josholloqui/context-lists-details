@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component render Header 1`] = `
+<DocumentFragment>
+  <header
+    class=""
+  >
+    <h1>
+      Rick and Morty
+    </h1>
+    <button>
+      dark mode
+    </button>
+  </header>
+</DocumentFragment>
+`;
