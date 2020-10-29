@@ -1,0 +1,36 @@
+body {
+  --darkcolor1: #292d3e;
+  --darkcolor2: #d0d0d0;
+  --darkcolor3: #f07178;
+  --darkcolor4: #c3e88d;
+  --darkcolor5: #ffcb6b;
+  --darkcolor6: #82aaff;
+  --darkcolor7: #c792ea;
+  --darkcolor8: #89ddff;
+  margin: 0;
+}
+
+#character-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-auto-rows: auto;
+  list-style: none;
+  text-align: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.dark {
+  color: #d0d0d0;
+  background-color: #292d3e;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
